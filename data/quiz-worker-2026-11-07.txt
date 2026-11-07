@@ -46,3 +46,6 @@ A: Borg
 Auto Quiz - Peace 🧠
 Q: Which of these mythological creatures is said to be half-man and half-horse?
 A: Centaur
+Auto Quiz - Courage 🧠
+Q: The Hyundai Motor Company was founded in which country?
+A: South Korea
