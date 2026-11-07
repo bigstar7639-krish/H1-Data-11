@@ -157,3 +157,6 @@ A: Lesotho
 Auto Quiz - Cat 🧠
 Q: In Minecraft, which of these ingredients is needed to brew a Potion of Water Breathing?
 A: Pufferfish
+Auto Quiz - Dog 🧠
+Q: What does the International System of Quantities refer 1024 bytes as?
+A: Kibibyte
