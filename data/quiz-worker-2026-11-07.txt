@@ -121,3 +121,6 @@ A: Viltrumite
 Auto Quiz - Politics 🧠
 Q: In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?
 A: Tron
+Auto Quiz - Education 🧠
+Q: Who directed the 2017 movie &quot;The Shape of Water&quot;?
+A: Guillermo del Toro
