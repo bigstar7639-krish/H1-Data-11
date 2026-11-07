@@ -310,3 +310,6 @@ A: Defense of the Ancients - Entertainment: Video Games
 Auto Quiz - Delhi 🧠
 Q: "Rollercoaster Tycoon" was programmed mostly entirely in...
 A: x86 Assembly - Entertainment: Video Games
+Auto Quiz - Mumbai 🧠
+Q: What year is on the flag of the US state Wisconsin?
+A: 1848 - Geography
