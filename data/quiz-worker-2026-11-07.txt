@@ -85,3 +85,6 @@ A: Red
 Auto Quiz - Madurai 🧠
 Q: Which of these plays was famously first performed posthumously after the playwright committed suicide?
 A: 4.48 Psychosis
+Auto Quiz - Delhi 🧠
+Q: Which of the following languages is used as a scripting language in the Unity 3D game engine?
+A: C#
