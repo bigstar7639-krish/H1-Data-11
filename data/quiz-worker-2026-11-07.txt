@@ -88,3 +88,6 @@ A: 4.48 Psychosis
 Auto Quiz - Delhi 🧠
 Q: Which of the following languages is used as a scripting language in the Unity 3D game engine?
 A: C#
+Auto Quiz - Mumbai 🧠
+Q: In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?
+A: Delirium
