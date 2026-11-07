@@ -76,3 +76,6 @@ A: Comprehensive documentation
 Auto Quiz - Rain 🧠
 Q: What is the name of the Greek god of blacksmiths?
 A: Hephaestus
+Auto Quiz - Village 🧠
+Q: Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?
+A: Gooty
