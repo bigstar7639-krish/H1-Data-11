@@ -43,3 +43,6 @@ A: Jeremy
 Auto Quiz - Motivation 🧠
 Q: Which Star Trek race advances itself through assimilation?
 A: Borg
+Auto Quiz - Peace 🧠
+Q: Which of these mythological creatures is said to be half-man and half-horse?
+A: Centaur
