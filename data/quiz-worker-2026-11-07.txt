@@ -22,3 +22,6 @@ A: Dave Grohl
 Auto Quiz - Festival 🧠
 Q: Which company developed the Hololens?
 A: Microsoft
+Auto Quiz - Marriage 🧠
+Q: Which of these characters in &quot;Stranger Things&quot; has the power of Telekinesis?
+A: Eleven
