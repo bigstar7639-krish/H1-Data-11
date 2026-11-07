@@ -91,3 +91,6 @@ A: C#
 Auto Quiz - Mumbai 🧠
 Q: In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?
 A: Delirium
+Auto Quiz - Paris 🧠
+Q: How much horsepower is produced by the SD40-2 Locomotive?
+A: 3,000
