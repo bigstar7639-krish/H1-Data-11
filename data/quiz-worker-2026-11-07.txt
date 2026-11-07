@@ -193,3 +193,6 @@ A: Normandy
 Auto Quiz - Sky 🧠
 Q: Which of the following is not another name for the eggplant?
 A: Potimarron
+Auto Quiz - Star 🧠
+Q: The RMS Titanic sunk during her maiden voyage from Southampton, England to which American city?
+A: New York City
