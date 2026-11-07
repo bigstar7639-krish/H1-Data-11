@@ -10,3 +10,6 @@ A: 1502
 Auto Quiz - Game 🧠
 Q: Which of the following won the first season of American Idol in 2002?
 A: Kelly Clarkson
+Auto Quiz - Sport 🧠
+Q: What is the official name of the star located closest to the North Celestial Pole?
+A: Polaris
