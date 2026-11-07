@@ -19,3 +19,6 @@ A: Los Angeles Lakers
 Auto Quiz - History 🧠
 Q: Which member of the Foo Fighters was previously the drummer for Nirvana?
 A: Dave Grohl
+Auto Quiz - Festival 🧠
+Q: Which company developed the Hololens?
+A: Microsoft
