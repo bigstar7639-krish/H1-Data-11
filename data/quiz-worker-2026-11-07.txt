@@ -73,3 +73,6 @@ A: 1936
 Auto Quiz - Karma 🧠
 Q: Which of these is not a key value of Agile software development?
 A: Comprehensive documentation
+Auto Quiz - Rain 🧠
+Q: What is the name of the Greek god of blacksmiths?
+A: Hephaestus
