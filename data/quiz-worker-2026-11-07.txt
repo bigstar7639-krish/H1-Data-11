@@ -64,3 +64,6 @@ A: Sasha
 Auto Quiz - Magic 🧠
 Q: In the Jackbox party game Monster Seeking Monster, which monster can steal two hearts from other monsters under certain conditions?
 A: Serial Killer
+Auto Quiz - Luck 🧠
+Q: Leonardo Di Caprio won his first Best Actor Oscar for his performance in which film?
+A: The Revenant
