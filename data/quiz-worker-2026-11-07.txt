@@ -214,3 +214,6 @@ A: 1957
 Auto Quiz - Student 🧠
 Q: Which of the Master levels in &quot;Super Monkey Ball&quot; is also used in the arcade version of the game, simply named &quot;Monkey Ball&quot;?
 A: MASTER 9 - Bridge Master
+Auto Quiz - Business 🧠
+Q: What genre of EDM is the Dutch DJ, musician, and remixer Armin van Buuren most well-known for?
+A: Trance
