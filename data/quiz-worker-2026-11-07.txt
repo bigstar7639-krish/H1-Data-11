@@ -124,3 +124,6 @@ A: Tron
 Auto Quiz - Education 🧠
 Q: Who directed the 2017 movie &quot;The Shape of Water&quot;?
 A: Guillermo del Toro
+Auto Quiz - Happiness 🧠
+Q: What is the official German name of the Swiss Federal Railways?
+A: Schweizerische Bundesbahnen
