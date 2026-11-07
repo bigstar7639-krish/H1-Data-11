@@ -97,3 +97,6 @@ A: 3,000
 Auto Quiz - Tokyo 🧠
 Q: Who is the main character of the game Half-Life: Opposing Force?
 A: Adrian Shephard
+Auto Quiz - New York 🧠
+Q: In the Half-Life mod &quot;Afraid of Monsters&quot; what was the name of the main protagonist?
+A: David Leatherhoff
