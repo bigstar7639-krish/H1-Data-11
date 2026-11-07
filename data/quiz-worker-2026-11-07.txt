@@ -184,3 +184,6 @@ A: Jonah Hill
 Auto Quiz - Flower 🧠
 Q: What country was the Trabant 601 manufactured in?
 A: East Germany
+Auto Quiz - Mountain 🧠
+Q: What does GHz stand for?
+A: Gigahertz
