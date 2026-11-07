@@ -337,3 +337,6 @@ A: Careless Whisper - Entertainment: Music
 Auto Quiz - Eiffel Tower 🧠
 Q: Who was the first ever actor to play "The Doctor" on "Doctor Who"?
 A: William Hartnell - Entertainment: Television
+Auto Quiz - Psychology 🧠
+Q: J.K. Rowling completed "Harry Potter and the Deathly Hallows" in which hotel in Edinburgh, Scotland?
+A: The Balmoral - Entertainment: Books
