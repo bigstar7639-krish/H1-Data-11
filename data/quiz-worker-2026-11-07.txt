@@ -223,3 +223,6 @@ A: Monkeys - Entertainment: Video Games
 Auto Quiz - Fitness 🧠
 Q: Which ocean borders the west coast of the United States?
 A: Pacific - Geography
+Auto Quiz - Diet 🧠
+Q: In any programming language, what is the most common way to iterate through an array?
+A: 'For' loops - Science: Computers
