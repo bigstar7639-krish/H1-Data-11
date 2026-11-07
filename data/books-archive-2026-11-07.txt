@@ -254,3 +254,4 @@ Taj Mahal - eparlib.nic.in.27323 - Taj Mahal (10-Dec-1996)
 Eiffel Tower - eiffeltower00ryan - The Eiffel Tower
 Eiffel Tower - eiffeltowerother00bart - The Eiffel Tower, and other mythologies
 Psychology - statisticalmetho0000cbda_j9e0 - Statistical methods in biology, medicine and psychology
+Psychology - canadianjournalo0012unse_u2g5 - Canadian Journal of Psychology
