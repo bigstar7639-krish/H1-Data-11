@@ -241,3 +241,4 @@ London - bwb_T5-BCA-088_152 - Proceedings of the Royal Society of London
 London - londonquarterlyh0033gord - The London Quarterly and Holborn Review
 Paris - ParisCharbonAndCar - Paris Charbon And Car
 Paris - leservicedelarou0017maur - Le Service De La Rougeole a L'Hopital Claude Bernard a Paris 1937-1938-1939
+Tokyo - hatchikochiendet0000clau - Hatchiko, chien de Tokyo
