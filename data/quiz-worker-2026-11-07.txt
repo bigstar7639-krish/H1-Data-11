@@ -229,3 +229,6 @@ A: 'For' loops - Science: Computers
 Auto Quiz - Sleep 🧠
 Q: How many points did LeBron James score in his first NBA game?
 A: 25 - Sports
+Auto Quiz - Fashion 🧠
+Q: What is Meg's full name in "Family Guy"?
+A: Megatron Griffin - Entertainment: Television
