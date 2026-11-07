@@ -187,3 +187,6 @@ A: East Germany
 Auto Quiz - Mountain 🧠
 Q: What does GHz stand for?
 A: Gigahertz
+Auto Quiz - River 🧠
+Q: What is the main ship used by Commander Shepard in the Mass Effect Franchise called?
+A: Normandy
