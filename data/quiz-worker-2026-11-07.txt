@@ -199,3 +199,6 @@ A: New York City
 Auto Quiz - Sun 🧠
 Q: Out of these four buildings, which one is the tallest, with a height of 2,717 ft (828 m)?
 A: Burj Khalifa, United Arab Emirates
+Auto Quiz - Bird 🧠
+Q: In the 2011 TV anime series, &quot;THE iDOLM@STER&quot;, what was the name of Iori&#039;s stuffed toy bunny?
+A: Charles
