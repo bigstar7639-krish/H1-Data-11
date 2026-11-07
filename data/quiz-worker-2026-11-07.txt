@@ -70,3 +70,6 @@ A: The Revenant
 Auto Quiz - Destiny 🧠
 Q: What year did the television company BBC officially launch the channel BBC One?
 A: 1936
+Auto Quiz - Karma 🧠
+Q: Which of these is not a key value of Agile software development?
+A: Comprehensive documentation
