@@ -307,3 +307,6 @@ A: Sophie - Entertainment: Video Games
 Auto Quiz - Chennai 🧠
 Q: The acronym DOTA stands for
 A: Defense of the Ancients - Entertainment: Video Games
+Auto Quiz - Delhi 🧠
+Q: "Rollercoaster Tycoon" was programmed mostly entirely in...
+A: x86 Assembly - Entertainment: Video Games
