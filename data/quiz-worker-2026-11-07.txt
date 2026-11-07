@@ -313,3 +313,6 @@ A: x86 Assembly - Entertainment: Video Games
 Auto Quiz - Mumbai 🧠
 Q: What year is on the flag of the US state Wisconsin?
 A: 1848 - Geography
+Auto Quiz - London 🧠
+Q: Who discovered Penicillin?
+A: Alexander Flemming - History
