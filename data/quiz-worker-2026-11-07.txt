@@ -61,3 +61,6 @@ A: Sub-Zero
 Auto Quiz - Power 🧠
 Q: What is the name of Team Fortress 2&#039;s Heavy Weapons Guy&#039;s minigun?
 A: Sasha
+Auto Quiz - Magic 🧠
+Q: In the Jackbox party game Monster Seeking Monster, which monster can steal two hearts from other monsters under certain conditions?
+A: Serial Killer
