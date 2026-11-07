@@ -211,3 +211,6 @@ A: Cow
 Auto Quiz - Teacher 🧠
 Q: In which year did Ghana gain independence?
 A: 1957
+Auto Quiz - Student 🧠
+Q: Which of the Master levels in &quot;Super Monkey Ball&quot; is also used in the arcade version of the game, simply named &quot;Monkey Ball&quot;?
+A: MASTER 9 - Bridge Master
