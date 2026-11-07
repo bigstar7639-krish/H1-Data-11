@@ -246,3 +246,4 @@ Tokyo - gov.uscourts.flsd.388089 - Cohen v. Shanghai Tokyo, Inc.
 New York - usmodernist-AIANY-1945-05 - AIA New York, May 1945
 New York - lanthanideactini0000unse_f6w3 - Lanthanide/actinide chemistry; a symposium co-sponsored by the Division of Inorganic Chemistry and the Division of Nuclear Chemistry and Technology at the 152nd meeting of the American Chemical Society, New York, N. Y., Sept. 13-14, 1966
 Egypt - bwb_S0-AST-144 - accurate from the history of egypt
+Egypt - pubmed-PMC3132902 - ASSOCIATION OF CYTOKINE GENE POLYMORPHISMS WITH PSORIASIS IN CASES FROM THE NILE DELTA OF EGYPT.
