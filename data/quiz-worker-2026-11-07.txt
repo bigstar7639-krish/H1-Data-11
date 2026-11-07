@@ -247,3 +247,6 @@ A: Amanda Barrie - Entertainment: Television
 Auto Quiz - Culture 🧠
 Q: Neptune's greek name was...
 A: Poseidon - Mythology
+Auto Quiz - Festival 🧠
+Q: Which UK country features a dragon on their flag?
+A: Wales - Geography
