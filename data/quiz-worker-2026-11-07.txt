@@ -238,3 +238,6 @@ A: My Neighbor Totoro - Entertainment: Film
 Auto Quiz - Football 🧠
 Q: How many moons does the Earth have?
 A: 1 - Science & Nature
+Auto Quiz - Science 🧠
+Q: What is the lowest layer of the Earth's atmosphere named?
+A: Troposphere - Science & Nature
