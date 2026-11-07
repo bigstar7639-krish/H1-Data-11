@@ -226,3 +226,6 @@ A: Pacific - Geography
 Auto Quiz - Diet 🧠
 Q: In any programming language, what is the most common way to iterate through an array?
 A: 'For' loops - Science: Computers
+Auto Quiz - Sleep 🧠
+Q: How many points did LeBron James score in his first NBA game?
+A: 25 - Sports
