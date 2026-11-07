@@ -196,3 +196,6 @@ A: Potimarron
 Auto Quiz - Star 🧠
 Q: The RMS Titanic sunk during her maiden voyage from Southampton, England to which American city?
 A: New York City
+Auto Quiz - Sun 🧠
+Q: Out of these four buildings, which one is the tallest, with a height of 2,717 ft (828 m)?
+A: Burj Khalifa, United Arab Emirates
