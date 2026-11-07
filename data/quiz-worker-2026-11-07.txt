@@ -172,3 +172,6 @@ A: Donald Trump
 Auto Quiz - Health 🧠
 Q: What is the Polish city known to Germans as Danzig?
 A: Gdańsk
+Auto Quiz - Music 🧠
+Q: What is the nickname for the US state Delaware?
+A: The First State
