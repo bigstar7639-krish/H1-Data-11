@@ -83,3 +83,4 @@ Eiffel Tower - lego-building-instructions-10307 - 10307 - Eiffel tower - Buildin
 Psychology - bwb_Y0-DBK-952 - Education Psychology ; the instructional endeavor
 Psychology - developmentalpsy0020will - Developmental Psychology
 Philosophy - bwb_Y0-COU-477 - The moral philosophy of George Berkeley
+Philosophy - bwb_Y0-BUC-382 - the dawn philosophy
