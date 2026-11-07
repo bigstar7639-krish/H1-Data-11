@@ -142,3 +142,6 @@ A: The Legend of Zelda: Twilight Princess
 Auto Quiz - Faith 🧠
 Q: What European country is not a part of the EU?
 A: Norway
+Auto Quiz - Tamil 🧠
+Q: The element involved in making human blood red is which of the following?
+A: Iron
