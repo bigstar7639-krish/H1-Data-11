@@ -160,3 +160,6 @@ A: Pufferfish
 Auto Quiz - Dog 🧠
 Q: What does the International System of Quantities refer 1024 bytes as?
 A: Kibibyte
+Auto Quiz - Cricket 🧠
+Q: What is the capital of Denmark?
+A: Copenhagen
