@@ -166,3 +166,6 @@ A: Copenhagen
 Auto Quiz - Space 🧠
 Q: Which of the following bands is Tom DeLonge not a part of?
 A: +44
+Auto Quiz - Story 🧠
+Q: Whose 2016 presidential campaign slogan was &quot;Make America Great Again&quot;?
+A: Donald Trump
