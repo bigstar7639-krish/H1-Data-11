@@ -194,3 +194,4 @@ Marriage - bwb_S0-BHE-032 - The Marriage Art
 Family - marionstokesfamilycouncil1977-05-07 - Marion Stokes Family Council (May 7, 1977)
 Family - bwb_Y0-BVX-866 - The Family Mark Twain
 Friendship - bwb_C0-BNV-550 - The Friendship Book of Francis Gay 1983
+Friendship - recordofpersonal0000unse - A Record Of A Personal And A Literary Friendship
