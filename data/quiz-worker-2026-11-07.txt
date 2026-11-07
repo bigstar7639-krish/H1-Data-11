@@ -94,3 +94,6 @@ A: Delirium
 Auto Quiz - Paris 🧠
 Q: How much horsepower is produced by the SD40-2 Locomotive?
 A: 3,000
+Auto Quiz - Tokyo 🧠
+Q: Who is the main character of the game Half-Life: Opposing Force?
+A: Adrian Shephard
