@@ -316,3 +316,6 @@ A: 1848 - Geography
 Auto Quiz - London 🧠
 Q: Who discovered Penicillin?
 A: Alexander Flemming - History
+Auto Quiz - Paris 🧠
+Q: Which of these founding fathers of the United States of America later became president?
+A: James Monroe - History
