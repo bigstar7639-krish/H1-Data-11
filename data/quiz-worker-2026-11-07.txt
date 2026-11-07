@@ -16,3 +16,6 @@ A: Polaris
 Auto Quiz - Football 🧠
 Q: Which basketball team has attended the most NBA grand finals?
 A: Los Angeles Lakers
+Auto Quiz - History 🧠
+Q: Which member of the Foo Fighters was previously the drummer for Nirvana?
+A: Dave Grohl
