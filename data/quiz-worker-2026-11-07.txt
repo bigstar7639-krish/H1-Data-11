@@ -256,3 +256,6 @@ A: MGMT - Entertainment: Music
 Auto Quiz - Family 🧠
 Q: The gunpowder plot was a well-known failed assassination attempt against which of England's then reigning monarchs?
 A: James I - History
+Auto Quiz - Friendship 🧠
+Q: In which movie does Robin Williams' character have to disguise themselves into a woman?
+A: Mrs. Doubtfire - Entertainment: Film
