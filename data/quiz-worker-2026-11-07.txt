@@ -163,3 +163,6 @@ A: Kibibyte
 Auto Quiz - Cricket 🧠
 Q: What is the capital of Denmark?
 A: Copenhagen
+Auto Quiz - Space 🧠
+Q: Which of the following bands is Tom DeLonge not a part of?
+A: +44
