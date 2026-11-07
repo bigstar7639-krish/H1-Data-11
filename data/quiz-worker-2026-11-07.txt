@@ -190,3 +190,6 @@ A: Gigahertz
 Auto Quiz - River 🧠
 Q: What is the main ship used by Commander Shepard in the Mass Effect Franchise called?
 A: Normandy
+Auto Quiz - Sky 🧠
+Q: Which of the following is not another name for the eggplant?
+A: Potimarron
