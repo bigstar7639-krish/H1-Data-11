@@ -31,3 +31,6 @@ A: 56
 Auto Quiz - Friendship 🧠
 Q: What is the designation given to the Marvel Cinematic Universe?
 A: Earth-199999
+Auto Quiz - Study 🧠
+Q: What is the real hair colour of the mainstream comic book version (Earth-616) of Daredevil?
+A: Blonde
