@@ -232,3 +232,6 @@ A: 25 - Sports
 Auto Quiz - Fashion 🧠
 Q: What is Meg's full name in "Family Guy"?
 A: Megatron Griffin - Entertainment: Television
+Auto Quiz - Game 🧠
+Q: Which movie includes a giant bunny-like spirit who has magic powers including growing trees?
+A: My Neighbor Totoro - Entertainment: Film
