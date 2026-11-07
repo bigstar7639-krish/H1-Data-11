@@ -178,3 +178,6 @@ A: The First State
 Auto Quiz - Movie 🧠
 Q: What was the unofficial name for Germany between 1919 and 1933?
 A: Weimar Republic
+Auto Quiz - Temple 🧠
+Q: Which actor was not a major character in TV Show Freaks and Geeks?
+A: Jonah Hill
