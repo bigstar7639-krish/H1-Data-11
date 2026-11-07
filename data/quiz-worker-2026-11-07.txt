@@ -127,3 +127,6 @@ A: Guillermo del Toro
 Auto Quiz - Happiness 🧠
 Q: What is the official German name of the Swiss Federal Railways?
 A: Schweizerische Bundesbahnen
+Auto Quiz - Smile 🧠
+Q: Which of these characters does not appear in &quot;Nier: Automata&quot;?
+A: A1
