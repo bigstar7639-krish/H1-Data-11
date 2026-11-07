@@ -25,3 +25,6 @@ A: Microsoft
 Auto Quiz - Marriage 🧠
 Q: Which of these characters in &quot;Stranger Things&quot; has the power of Telekinesis?
 A: Eleven
+Auto Quiz - Family 🧠
+Q: How old was Adolf Hitler when he died?
+A: 56
