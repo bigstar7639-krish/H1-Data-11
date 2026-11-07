@@ -58,3 +58,6 @@ A: 10
 Auto Quiz - Wisdom 🧠
 Q: Which one of these &quot;Mortal Kombat&quot; characters has been playable in every single mainline game?
 A: Sub-Zero
+Auto Quiz - Power 🧠
+Q: What is the name of Team Fortress 2&#039;s Heavy Weapons Guy&#039;s minigun?
+A: Sasha
