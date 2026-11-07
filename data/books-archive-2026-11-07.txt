@@ -243,3 +243,4 @@ Paris - ParisCharbonAndCar - Paris Charbon And Car
 Paris - leservicedelarou0017maur - Le Service De La Rougeole a L'Hopital Claude Bernard a Paris 1937-1938-1939
 Tokyo - hatchikochiendet0000clau - Hatchiko, chien de Tokyo
 Tokyo - gov.uscourts.flsd.388089 - Cohen v. Shanghai Tokyo, Inc.
+New York - usmodernist-AIANY-1945-05 - AIA New York, May 1945
