@@ -319,3 +319,6 @@ A: Alexander Flemming - History
 Auto Quiz - Paris 🧠
 Q: Which of these founding fathers of the United States of America later became president?
 A: James Monroe - History
+Auto Quiz - Tokyo 🧠
+Q: In the video game Overwatch, which playable character is infamous for saying "It's high noon."?
+A: McCree - Entertainment: Video Games
