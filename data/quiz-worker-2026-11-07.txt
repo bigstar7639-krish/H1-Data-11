@@ -151,3 +151,6 @@ A: Isaac Clarke
 Auto Quiz - God 🧠
 Q: The Space Needle is located in which city?
 A: Seattle
+Auto Quiz - Nature 🧠
+Q: Which of the following landlocked countries is entirely contained within another country?
+A: Lesotho
