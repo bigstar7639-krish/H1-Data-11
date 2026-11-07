@@ -109,3 +109,6 @@ A: The Black Mages
 Auto Quiz - Taj Mahal 🧠
 Q: What is the Polish city known to Germans as Danzig?
 A: Gdańsk
+Auto Quiz - Eiffel Tower 🧠
+Q: Eritrea, which became the 182nd member of the UN in 1993, is in the continent of?
+A: Africa
