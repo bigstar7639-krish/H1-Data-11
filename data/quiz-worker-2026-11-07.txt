@@ -169,3 +169,6 @@ A: +44
 Auto Quiz - Story 🧠
 Q: Whose 2016 presidential campaign slogan was &quot;Make America Great Again&quot;?
 A: Donald Trump
+Auto Quiz - Health 🧠
+Q: What is the Polish city known to Germans as Danzig?
+A: Gdańsk
