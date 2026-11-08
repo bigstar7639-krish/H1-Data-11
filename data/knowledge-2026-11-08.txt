@@ -765,3 +765,6 @@ A: Aloe Blacc - Entertainment: Music
 Knowledge Quiz
 Q: In Naruto: Shippuden, which of the following elements is a "Kekkei Tōta?"
 A: Particle Style - Entertainment: Television
+Knowledge Quiz
+Q: What is the capital of Denmark?
+A: Copenhagen - Geography
