@@ -218,3 +218,6 @@ A: Jewel Shards - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Which of these bones is hardest to break?
 A: Femur - Science & Nature
+Knowledge Quiz
+Q: TF2: What code does Soldier put into the door keypad in "Meet the Spy"?
+A: 1111 - Entertainment: Video Games
