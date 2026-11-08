@@ -151,3 +151,6 @@ A: Lung Cancer - Entertainment: Television
 Knowledge Quiz
 Q: What is the derivative of Acceleration with respect to time?
 A: Jerk - Science: Mathematics
+Knowledge Quiz
+Q: What did Alfred Hitchcock use as blood in the film "Psycho"? 
+A: Chocolate syrup - Entertainment: Film
