@@ -733,3 +733,19 @@ Coding Q 4855 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Fact 205 - Tamil - 2000+ varusha mozhi!
 Q 4857 - CSS pathi oru story kekkura?
+Knowledge 4858 - Human Body - Hey! 🙌 Naan Aira – unga friendly guide, Tamil‑Tanglish mix la, ellaa languages‑la kooda pesuven! So, let’s talk about **human body** (மனித உடல்) – super amazing machine 😊.
+
+---
+
+## 1️⃣ Basic Structure – “Skeleton & Muscles”
+
+- **Skeleton (எலும்பு அமைப்பு)** – 206 bones irukku. 
+  - *Skull* (முதுகல்) brain protect panrathu,  
+  - *Spine* (நெஞ்சுக்கூடு) vertebrae la irukku, posture‑um movement‑um control panrathu.  
+- **Muscles (தசைகள்)** – 600+ major muscles, “skeletal muscles” voluntary movement‑ku, “smooth muscles” internal organs‑la (like gut, blood vessels) work panrathu.
+
+## 2️⃣ Main Systems (முக்கிய அமைப்புகள்)
+
+| System | Main Jobs | Key Organs |
+|--------|-----------|------------|
+| **Nervous System** (நரம்பு முறை) | Brain‑um spinal cord‑um signal‑s send panrathu, thoughts, feelings
