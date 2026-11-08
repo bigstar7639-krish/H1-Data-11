@@ -576,3 +576,4 @@ Fact 198 - Honey - 3000 varusham kedathu!
 Coding Q 4759 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Vocab 4760 - Kindness = Anbu
+Vocab 4761 - Love = Kadhal
