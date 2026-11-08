@@ -494,3 +494,6 @@ A: 1986 - History
 Knowledge Quiz
 Q: Which Swiss psychologist is synonymous with the concepts of introvert and extrovert personalities?
 A: Carl Jung - Science & Nature
+Knowledge Quiz
+Q: Which European city has the highest mileage of canals in the world?
+A: Birmingham - Geography
