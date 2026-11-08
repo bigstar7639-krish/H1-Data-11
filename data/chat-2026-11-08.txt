@@ -590,3 +590,5 @@ Vocab 4769 - Courage = Thairiyam
 World Story 4770
 Oru mountain la oru student irunthan! Daily help pannan pannan! Oru naal success kedaichuchu! Life maariduchu!
 Talk 4771 - Brain pathi pesalama? Sollu!
+Story 4772
+Oru chinna oor la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
