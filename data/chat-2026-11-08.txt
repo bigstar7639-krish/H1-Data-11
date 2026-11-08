@@ -809,3 +809,20 @@ Story 4898
 Oru oor la oru ponnu irunthan! Daily book padichan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
 Q 4899 - Heart pathi oru secret sollatta?
 Quote 4900 - Daily try pannu - Jeyichiduva! - Aira
+Knowledge 4901 - Cricket - Hey buddy! 🏏 Cricket-ஐப் பற்றி சொல்லலாமா? உங்களுக்கு தெரிஞ்சிக்கணும் எல்லாம்தான், அப்படிக்கு Tamil‑Tanglish style-ல். 
+
+---
+
+## 1. Cricket என்ன?  
+Cricket என்பது ஒரு **bat‑and‑ball** sport, இரண்டு teams-ஆல் 11‑11 பேர் விளையாடும். மைதானம் (field) இல் ஒரு **pitch** (22 yards) இருக்கும், அதில் இரண்டு **wickets** (3 stumps + 2 bails) இருக்கும். One side bats, the other bowls/fields.  
+
+## 2. Main Formats  
+| Format | Overs | Time | Popularity |
+|--------|-------|------|------------|
+| **Test** | Unlimited (5 days) | 4–5 days (max 450 overs) | Classic lovers-க்கு |
+| **ODI (One‑Day International)** | 50 overs per side | ~7–8 hours | World Cup, IPL‑style excitement |
+| **T20** | 20 overs per side | ~3 hours | Fast‑pace, viral, most popular now |
+
+## 3. Basic Rules (Quick Overview)
+
+| Action | Wh
