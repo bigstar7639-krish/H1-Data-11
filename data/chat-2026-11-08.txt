@@ -292,3 +292,29 @@ Reading 4590 - Atomic Habits!
 Joke 4591
 Teacher: Yen late? Student: School Ahead board!
 Business Idea 4592 - Instagram Page - Daily 1 Post!
+Knowledge 4593 - Power - Hey buddy! 😄 **Power** (Power‑pathi) enna-nu solla, adhu *energy‑oda flow speed*‑aa irukku. Simple-a paathaal:
+
+---
+
+## 1️⃣ Physics‑la Power = Energy / Time  
+**Formula:**  
+\[
+P = \frac{E}{t}
+\]  
+
+- **E** = Energy (joules, J)  
+- **t** = Time (seconds, s)  
+- **P** = Power (watts, W) – 1 W = 1 J/s  
+
+**Example:** Oru light bulb 60 W ah irukku, adhu 60 J energy‑a 1 second‑la use panrathu.
+
+---
+
+## 2️⃣ Common Types of Power  
+
+| Type | Description | Typical Unit |
+|------|-------------|--------------|
+| **Mechanical Power** | Force × Velocity (e.g., engine, treadmill) | Watt (W) / Horsepower (hp) |
+| **Electrical Power** | Voltage × Current (P = V × I) | Watt (W) |
+| **Thermal Power** | Heat flow per unit time (e.g., boiler) | Watt (W) |
+| **Radiant Power** | Light/EM radiation per second 
