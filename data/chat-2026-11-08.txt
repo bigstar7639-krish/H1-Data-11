@@ -589,3 +589,4 @@ Oru chinna chennai la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana
 Vocab 4769 - Courage = Thairiyam
 World Story 4770
 Oru mountain la oru student irunthan! Daily help pannan pannan! Oru naal success kedaichuchu! Life maariduchu!
+Talk 4771 - Brain pathi pesalama? Sollu!
