@@ -624,3 +624,21 @@ Recipe 4787 - Cake - Maida + Sugar + Egg + 30 min!
 Vocab 4788 - Happy = Santhosham
 Health 4789 - Health Tip: Daily 30 min walk ponga!
 Talk 4790 - Courage pathi pesalama? Sollu!
+Knowledge 4791 - Peace - Hey buddy! 🌼 **Peace** (அமைதி / peace) பற்றிப் பேசலாம்.  
+
+---
+
+## 1️⃣ Peace என்ன?  
+- **அமைதி** – உள்ளத்தின், குடும்பத்தின், சமூகம், நாடு, உலகம் எல்லாம் **சாந்தமாக, கலக்கம் இல்லாமல்** இருக்கும் நிலை.  
+- **Inner peace** = மனம், சிந்தனைகள், உணர்வுகள் எல்லாம் **நிறைவு, சமநிலை** கொண்டிருக்கும் நிலை.  
+- **World peace** = நாடுகள், மக்கள், கலாச்சாரங்கள் எல்லாம் **அன்பும் புரிந்துணர்வும்** கொண்டு வாழும் உலகம்.  
+
+---
+
+## 2️⃣ ஏன் Peace இவ்வளவு முக்கியம்?  
+| Dimension | Why it matters |
+|-----------|----------------|
+| **Mental health** | Stress, anxiety, depression குறைந்து, focus, creativity அதிகரிக்கும். |
+| **Relationships** | சண்டை, வெறுப்பு இல்லாமல், புரிந்துணர்வு, நம்பிக்கை அதிகம். |
+| **Society** | Crime, violence குறைந்து, education, development அதிகரிக்கும். |
+| **Economy** | Stability
