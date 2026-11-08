@@ -290,3 +290,6 @@ A: Mae West - Entertainment: Music
 Knowledge Quiz
 Q: How many values can a single byte represent?
 A: 256 - Science: Computers
+Knowledge Quiz
+Q: In Pokemon Diamond, Pearl and Platinum, where can a Munchlax be found?
+A: Honey Trees - Entertainment: Video Games
