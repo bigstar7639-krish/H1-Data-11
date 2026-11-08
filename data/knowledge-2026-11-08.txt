@@ -479,3 +479,6 @@ A: Atreyu - Entertainment: Film
 Knowledge Quiz
 Q: Who won the 2016 Formula 1 World Driver's Championship?
 A: Nico Rosberg - Sports
+Knowledge Quiz
+Q: Who was "Kung Fu Fighting" in 1974?
+A: Carl Douglas - Entertainment: Music
