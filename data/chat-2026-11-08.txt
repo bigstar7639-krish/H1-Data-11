@@ -432,3 +432,4 @@ Vocab 4671 - Success = Vetri
 Game 4672 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Motivation 4673
 Paravalla! Rest edu - Thirumba try pannu!
+Thirukkural 4674 - Anbu - Ellam Tharum! - Thirukkural
