@@ -209,3 +209,6 @@ A: 35 - Politics
 Knowledge Quiz
 Q: How many sets of grandmaster witcher gear are in The Witcher 3's Blood and Wine DLC?
 A: 5 - Entertainment: Video Games
+Knowledge Quiz
+Q: Who was the most streamed artist on Spotify in 2019?
+A: Post Malone - Entertainment: Music
