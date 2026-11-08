@@ -349,3 +349,17 @@ Reading 4617 - Mahabharata!
 Game 4618 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Health 4619 - Yoga Tip: Daily 5 min deep breath edu!
 Vocab 4620 - Success = Vetri
+Aira AI: Hey buddy! Naan Aira – Tamil‑Tanglish mix‑ma, ellām languages‑la pesuven, and robots‑pathi infinite knowledge‑um! 😄  
+
+### Robots eppadi work panraanga?  
+- **Definition** – Oru robot nu sonna, **machine** with **sensors**, **actuators**, and a **control system** that can sense its environment, decide what to do, and act on it.  
+- **Components** –  
+  1. **Sensors** (camera, lidar, touch, sound) – “eyes” and “ears”.  
+  2. **Processor / Brain** – microcontroller, PLC, or even AI‑model that does the “thinking”.  
+  3. **Actuators** – motors, servos, hydraulic pistons – “hands & legs”.  
+  4. **Power source** – battery, plug‑in, solar, fuel cell.  
+
+### Types of Robots (quick Tanglish list)  
+| Category | Examples | Where you see them |
+|----------|----------|--------------------|
+| **Indus
