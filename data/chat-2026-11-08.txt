@@ -73,3 +73,5 @@ Goal-களை *SMART* (Specific, Measurable, Achievable, Relevant, Time‑bound
 |-----|------|----------------------|-------|
 | Mon | **Strength** | Squats, Bench press, Deadlift (3×8‑12) | Lower & upper body |
 | Tue | **Cardio** | Running / Cycling / Jump rope (30 min) | Endurance
+Coding Q 4472 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
