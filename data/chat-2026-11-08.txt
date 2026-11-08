@@ -938,3 +938,5 @@ Health 4971 - Health Tip: Daily 30 min walk ponga!
 Knowledge 4972 - Eiffel Tower - Eiffel Tower pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Vocab 4973 - Peace = Amaithi
 Reading 4974 - Ponniyin Selvan - Kalki!
+Coding Q 4975 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
