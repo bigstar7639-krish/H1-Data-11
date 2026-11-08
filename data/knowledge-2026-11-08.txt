@@ -545,3 +545,6 @@ Knowledge 4791 - Peace - Hey buddy! 🌼 **Peace** (அமைதி / peace) ப
 Knowledge Quiz
 Q: What American city was featured in the 1999 PC game Midtown Madness?
 A: Chicago - Entertainment: Video Games
+Knowledge Quiz
+Q: In what year was "Super Mario Sunshine" released?
+A: 2002 - Entertainment: Video Games
