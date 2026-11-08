@@ -747,3 +747,6 @@ Knowledge 4934 - Bhagavad Gita - Bhagavad Gita pathi sollu - Nalla question! Dai
 Knowledge Quiz
 Q: In the original "Super Mario Bros.", what is the acceleration of Mario if he was in free fall?
 A: 91.28 m/s^2 - Entertainment: Video Games
+Knowledge Quiz
+Q: The Japanese district Akihabara is also known by what nickname?
+A: Electric Town - Geography
