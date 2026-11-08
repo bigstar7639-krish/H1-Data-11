@@ -796,3 +796,6 @@ A: 1976 - General Knowledge
 Knowledge Quiz
 Q: Who was the 45th President of the United States?
 A: Donald Trump - Politics
+Knowledge Quiz
+Q: In what city in the dystopia alternate future of Half-Life 2 do you first start in?
+A: City 17 - Entertainment: Video Games
