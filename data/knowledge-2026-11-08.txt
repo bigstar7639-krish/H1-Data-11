@@ -212,3 +212,6 @@ A: 5 - Entertainment: Video Games
 Knowledge Quiz
 Q: Who was the most streamed artist on Spotify in 2019?
 A: Post Malone - Entertainment: Music
+Knowledge Quiz
+Q: In "Inuyasha", what are the heros are looking to collect?
+A: Jewel Shards - Entertainment: Japanese Anime & Manga
