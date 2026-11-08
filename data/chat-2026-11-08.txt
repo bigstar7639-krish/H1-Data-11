@@ -214,3 +214,5 @@ Emotion Q 4540 - bored?
 Aira: Bored ah? Joke sollattuma?
 Quote 4541 - Daily try pannu - Jeyichiduva! - Aira
 Smart Q 4542 - Sun la eppadi jeyikkarathu?
+Emotion Q 4543 - excited?
+Aira: Excited ah! Sollu!
