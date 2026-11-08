@@ -719,3 +719,6 @@ A: 1504 - Art
 Knowledge Quiz
 Q: In Portal, what color is the Intelligence Core?
 A: Blue - Entertainment: Video Games
+Knowledge Quiz
+Q: In "Overwatch", which hero is able to wallride?
+A: Lucio - Entertainment: Video Games
