@@ -106,3 +106,4 @@ Vocab 4480 - Kindness = Anbu
 Business Idea 4481 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
 Recipe 4482 - Snacks - Potato + Masala - Crispy!
 Vocab 4483 - Love = Kadhal
+Q 4484 - Travel pathi oru secret sollatta?
