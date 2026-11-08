@@ -737,3 +737,6 @@ A: Pablo Picasso - Art
 Knowledge Quiz
 Q: Which actress portrayed Dr. Grace Augustine in the James Cameron movie "Avatar"?
 A: Sigourney Weaver - Entertainment: Film
+Knowledge Quiz
+Q: The painting "Guernica" by Pablo Picasso expressed emotions of dread in response to which war?
+A: Spanish Civil War - Art
