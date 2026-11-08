@@ -734,3 +734,6 @@ A: Isao Takahata - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Who painted the epic mural Guernica?
 A: Pablo Picasso - Art
+Knowledge Quiz
+Q: Which actress portrayed Dr. Grace Augustine in the James Cameron movie "Avatar"?
+A: Sigourney Weaver - Entertainment: Film
