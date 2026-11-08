@@ -594,3 +594,4 @@ Story 4772
 Oru chinna oor la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Recipe 4773 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Recipe 4774 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Smart Q 4775 - Python la eppadi jeyikkarathu?
