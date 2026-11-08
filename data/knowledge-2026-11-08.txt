@@ -148,3 +148,6 @@ A: 2000 - Entertainment: Video Games
 Knowledge Quiz
 Q: In "Breaking Bad", Walter White is a high school teacher diagnosed with which form of cancer?
 A: Lung Cancer - Entertainment: Television
+Knowledge Quiz
+Q: What is the derivative of Acceleration with respect to time?
+A: Jerk - Science: Mathematics
