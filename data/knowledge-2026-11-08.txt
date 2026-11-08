@@ -458,3 +458,6 @@ A: The Flash - Entertainment: Television
 Knowledge Quiz
 Q: In the game "Terraria", which of these bosses are pre-hardmode bosses?
 A: Eye of Cthulhu - Entertainment: Video Games
+Knowledge Quiz
+Q: What type of creature is a Bonobo?
+A: Ape - Animals
