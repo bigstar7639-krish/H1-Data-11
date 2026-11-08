@@ -332,3 +332,6 @@ A: Galois - Science: Mathematics
 Knowledge Quiz
 Q: What was the official German currency until 2002?
 A: Mark - History
+Knowledge Quiz
+Q: Who voiced the character Joel in "The Last of Us"?
+A: Troy Baker - Entertainment: Video Games
