@@ -272,3 +272,6 @@ P = \frac{E}{t}
 Knowledge Quiz
 Q: Who released the song "Photograph" in 2005?
 A: Nickelback - Entertainment: Music
+Knowledge Quiz
+Q: Which of these is a stop codon in DNA?
+A: TAA - Science & Nature
