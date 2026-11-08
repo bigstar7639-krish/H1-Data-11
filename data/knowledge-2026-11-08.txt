@@ -109,3 +109,6 @@ A: Zhai (翟) - History
 Knowledge Quiz
 Q: What was the name of Captain Nemo's submarine in "20,000 Leagues Under the Sea"?
 A: The Nautilus - Entertainment: Books
+Knowledge Quiz
+Q: Which Landsat Satellite currently has had the longest operational life?
+A: Landsat 5 - Science & Nature
