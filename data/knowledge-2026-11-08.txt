@@ -344,3 +344,6 @@ A: United Kingdom - Entertainment: Film
 Knowledge Quiz
 Q: Who was the Author of the manga Monster Hunter Orage?
 A: Hiro Mashima - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: What do the video games No Man’s Sky and Mighty No. 9 have in common?
+A: Both were announced in 2013. - Entertainment: Video Games
