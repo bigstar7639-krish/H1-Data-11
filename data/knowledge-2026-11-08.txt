@@ -293,3 +293,6 @@ A: 256 - Science: Computers
 Knowledge Quiz
 Q: In Pokemon Diamond, Pearl and Platinum, where can a Munchlax be found?
 A: Honey Trees - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the name of the 4-armed Chaos Witch from the 2016 video game "Battleborn"?
+A: Orendi - Entertainment: Video Games
