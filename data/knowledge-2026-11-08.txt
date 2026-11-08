@@ -500,3 +500,6 @@ A: Birmingham - Geography
 Knowledge Quiz
 Q: What is the Klingon's afterlife called?
 A: Sto-vo-kor - Entertainment: Television
+Knowledge Quiz
+Q: The painting "The Starry Night" by Vincent van Gogh was part of which art movement?
+A: Post-Impressionism - Art
