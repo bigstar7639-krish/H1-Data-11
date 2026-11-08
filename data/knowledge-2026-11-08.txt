@@ -613,3 +613,6 @@ A: Trusteeship Council - Politics
 Knowledge Quiz
 Q: Which NBA player won Most Valuable Player for the 1999-2000 season?
 A: Shaquille O'Neal - Sports
+Knowledge Quiz
+Q: Toby Fox's "Megalovania" was first used where?
+A: Radiation's Earthbound Halloween Hack - Entertainment: Video Games
