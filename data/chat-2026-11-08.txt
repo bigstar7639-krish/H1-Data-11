@@ -786,3 +786,5 @@ Teacher: Yen late? Student: School Ahead board!
 Story 4883
 Oru world la oru rani irunthan! Daily try pannan pannan! Oru naal success kedaichuchu! Life maariduchu!
 Smart Q 4884 - Internet la eppadi jeyikkarathu?
+Joke 4885
+Teacher: Yen late? Student: School Ahead board!
