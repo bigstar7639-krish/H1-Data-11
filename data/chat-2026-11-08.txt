@@ -559,3 +559,4 @@ World Story 4744
 Oru chinna tokyo la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Smart Q 4745 - Climate la eppadi jeyikkarathu?
 Smart Q 4746 - Trust la eppadi jeyikkarathu?
+Recipe 4747 - Snacks - Potato + Masala - Crispy!
