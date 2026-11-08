@@ -203,3 +203,6 @@ A: Panic Attack - Entertainment: Television
 Knowledge Quiz
 Q: Which player holds the NHL record of 2,857 points?
 A: Wayne Gretzky - Sports
+Knowledge Quiz
+Q: According to the United States Constitution, how old must a person be to be elected President of the United States?
+A: 35 - Politics
