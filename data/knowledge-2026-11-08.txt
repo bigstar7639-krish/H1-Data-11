@@ -756,3 +756,6 @@ A: Hera - Mythology
 Knowledge Quiz
 Q: Who did the score to the original Blade Runner?
 A: Vangelis - Entertainment: Film
+Knowledge Quiz
+Q: What is the name of the town in which Lily and James Potter are buried?
+A: Godric's Hollow - Entertainment: Books
