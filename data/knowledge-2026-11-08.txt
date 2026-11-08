@@ -34,3 +34,6 @@ A: Andreas Vollenweider - Entertainment: Music
 Knowledge Quiz
 Q: What was the name of the protagonist in Portal and Portal 2?
 A: Chell - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the maximum HP in Terraria?
+A: 500 - Entertainment: Video Games
