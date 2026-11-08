@@ -607,3 +607,6 @@ A: Eric Barone - Entertainment: Video Games
 Knowledge Quiz
 Q: Which one of these Pink Floyd albums were also a movie?
 A: The Wall - Entertainment: Music
+Knowledge Quiz
+Q: Which United Nations principal organ has been suspended since 1994?
+A: Trusteeship Council - Politics
