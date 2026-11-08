@@ -401,3 +401,6 @@ Knowledge 4703 - Temple - Temple pathi sollu - Nalla question! Daily try pannu -
 Knowledge Quiz
 Q: What is the name of the creature that the main character befriends in "The Last Guardian"?
 A: Trico - Entertainment: Video Games
+Knowledge Quiz
+Q: In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?
+A: Head - Entertainment: Video Games
