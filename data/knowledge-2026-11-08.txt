@@ -560,3 +560,6 @@ A: Wizard and Glass - Entertainment: Books
 Knowledge Quiz
 Q: In "Little Witch Academia", what is Shiny Chariot's alias at Luna Nova Academy?
 A: Ursula Callistis - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: What was Dorothy's surname in 'The Wizard Of Oz'?
+A: Gale - Entertainment: Film
