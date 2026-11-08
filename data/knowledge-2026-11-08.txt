@@ -302,3 +302,6 @@ A: Purple - Entertainment: Video Games
 Knowledge Quiz
 Q: According to their longtime nickname, what kind of "duo" are Batman & Robin?
 A: Dynamic - Entertainment: Comics
+Knowledge Quiz
+Q: In what part of Wales will you find the village Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch?
+A: Anglesey - Geography
