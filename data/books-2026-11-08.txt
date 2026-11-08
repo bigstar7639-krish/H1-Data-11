@@ -30,3 +30,4 @@ tel - in.gazette.andhra_weekly.2026-09-28.628 - Andhra Pradesh Weekly Gazette, 2
 kan - in.gazette.karnataka_d.2022-04-20.3995 - Karnataka Daily Gazette, 2022-04-20, Daily
 kan - in.gazette.karnataka_d.2022-01-29.3607 - Karnataka Daily Gazette, 2022-01-29, Daily
 tel - prajasakti-newspaper-all-editions-09-07-2024 - Prajasakti Telugu Newspaper All Editions 09-07-2024
+kan - in.gazette.karnataka_eo.2022-03-14.2012021 - Karnataka ExtraOrdinary Gazette, 2022-03-14, Extra Ordinary, Part III
