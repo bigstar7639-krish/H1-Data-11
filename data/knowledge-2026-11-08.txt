@@ -305,3 +305,6 @@ A: Dynamic - Entertainment: Comics
 Knowledge Quiz
 Q: In what part of Wales will you find the village Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch?
 A: Anglesey - Geography
+Knowledge Quiz
+Q: Which U.S. president was said to have been too honest to lie to his father about chopping down a cherry tree?
+A: George Washington - History
