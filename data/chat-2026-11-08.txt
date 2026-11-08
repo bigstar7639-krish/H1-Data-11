@@ -580,3 +580,5 @@ Vocab 4761 - Love = Kadhal
 Reading 4762 - Ponniyin Selvan - Kalki!
 Recipe 4763 - Snacks - Potato + Masala - Crispy!
 Kavithai 4764 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
+Coding Q 4765 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
