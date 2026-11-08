@@ -759,3 +759,6 @@ A: Vangelis - Entertainment: Film
 Knowledge Quiz
 Q: What is the name of the town in which Lily and James Potter are buried?
 A: Godric's Hollow - Entertainment: Books
+Knowledge Quiz
+Q: Which singer was featured in Swedish producer Avicii's song "Wake Me Up"?
+A: Aloe Blacc - Entertainment: Music
