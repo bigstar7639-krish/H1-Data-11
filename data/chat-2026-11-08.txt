@@ -940,3 +940,4 @@ Vocab 4973 - Peace = Amaithi
 Reading 4974 - Ponniyin Selvan - Kalki!
 Coding Q 4975 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
+Game 4976 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
