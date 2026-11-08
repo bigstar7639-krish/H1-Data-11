@@ -780,3 +780,6 @@ A: Hiro Mashima - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: In the Portal series of games, who was the founder of Aperture Science?
 A: Cave Johnson - Entertainment: Video Games
+Knowledge Quiz
+Q: According to a Beatles song, who kept her face in a jar by the door?
+A: Eleanor Rigby - Entertainment: Music
