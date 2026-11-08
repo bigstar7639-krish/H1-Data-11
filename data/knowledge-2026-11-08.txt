@@ -154,3 +154,6 @@ A: Jerk - Science: Mathematics
 Knowledge Quiz
 Q: What did Alfred Hitchcock use as blood in the film "Psycho"? 
 A: Chocolate syrup - Entertainment: Film
+Knowledge Quiz
+Q: In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?
+A: Head - Entertainment: Video Games
