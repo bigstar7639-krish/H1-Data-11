@@ -659,3 +659,6 @@ A: Munich - Geography
 Knowledge Quiz
 Q: How many unique items does "Borderlands 2" claim to have?
 A: 87 Bazillion  - Entertainment: Video Games
+Knowledge Quiz
+Q: When did the CD begin to appear on the consumer market?
+A: 1982 - Science: Gadgets
