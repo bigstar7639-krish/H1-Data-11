@@ -223,3 +223,5 @@ Knowledge 4547 - Egypt - Egypt pathi sollu - Nalla question! Daily try pannu - J
 Coding Q 4548 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
 Smart Q 4549 - Yoga la eppadi jeyikkarathu?
+Coding Q 4550 - React la component enna?
+Aira: React component - Chinna piece!
