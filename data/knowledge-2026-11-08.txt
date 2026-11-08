@@ -563,3 +563,6 @@ A: Ursula Callistis - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What was Dorothy's surname in 'The Wizard Of Oz'?
 A: Gale - Entertainment: Film
+Knowledge Quiz
+Q: In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?
+A: Zhao Yun - Entertainment: Books
