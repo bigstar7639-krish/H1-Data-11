@@ -573,3 +573,5 @@ Vocab 4755 - Happy = Santhosham
 Quote 4756 - Daily try pannu - Jeyichiduva! - Aira
 Quote 4757 - Daily try pannu - Jeyichiduva! - Aira
 Fact 198 - Honey - 3000 varusham kedathu!
+Coding Q 4759 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
