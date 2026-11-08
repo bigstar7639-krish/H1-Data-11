@@ -40,3 +40,6 @@ A: 500 - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the name of the inspector in the series "On the Buses"?
 A: Blakey - Entertainment: Television
+Knowledge Quiz
+Q: Who directed the movies "Pulp Fiction", "Reservoir Dogs" and "Django Unchained"?
+A: Quentin Tarantino - Entertainment: Film
