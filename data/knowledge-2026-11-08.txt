@@ -656,3 +656,6 @@ A: 58 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which German city is located on the River Isar?
 A: Munich - Geography
+Knowledge Quiz
+Q: How many unique items does "Borderlands 2" claim to have?
+A: 87 Bazillion  - Entertainment: Video Games
