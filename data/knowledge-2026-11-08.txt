@@ -722,3 +722,6 @@ A: Blue - Entertainment: Video Games
 Knowledge Quiz
 Q: In "Overwatch", which hero is able to wallride?
 A: Lucio - Entertainment: Video Games
+Knowledge Quiz
+Q: Toby Fox's "Megalovania" was first used where?
+A: Radiation's Earthbound Halloween Hack - Entertainment: Video Games
