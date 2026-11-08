@@ -790,3 +790,6 @@ Knowledge 4972 - Eiffel Tower - Eiffel Tower pathi sollu - Nalla question! Daily
 Knowledge Quiz
 Q: With his distinctive red hair, which Italian composer, born in 1678, was known as the 'Red Priest'?
 A: Vivaldi - Entertainment: Music
+Knowledge Quiz
+Q: What year was Apple Inc. founded?
+A: 1976 - General Knowledge
