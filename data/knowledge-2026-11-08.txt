@@ -43,3 +43,6 @@ A: Blakey - Entertainment: Television
 Knowledge Quiz
 Q: Who directed the movies "Pulp Fiction", "Reservoir Dogs" and "Django Unchained"?
 A: Quentin Tarantino - Entertainment: Film
+Knowledge Quiz
+Q: What is the fastest speed possible in Trackmania²: Stadium?
+A: 1000  km/h - Entertainment: Video Games
