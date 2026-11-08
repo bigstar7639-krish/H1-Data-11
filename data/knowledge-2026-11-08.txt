@@ -604,3 +604,6 @@ Knowledge 4834 - Black Hole - Black Hole pathi sollu - Nalla question! Daily try
 Knowledge Quiz
 Q: Who developed the 2016 farming RPG "Stardew Valley"?
 A: Eric Barone - Entertainment: Video Games
+Knowledge Quiz
+Q: Which one of these Pink Floyd albums were also a movie?
+A: The Wall - Entertainment: Music
