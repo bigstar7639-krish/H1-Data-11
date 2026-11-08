@@ -731,3 +731,6 @@ A: Bones - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Who was the Director of the 1988 Anime film "Grave of the Fireflies"?
 A: Isao Takahata - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: Who painted the epic mural Guernica?
+A: Pablo Picasso - Art
