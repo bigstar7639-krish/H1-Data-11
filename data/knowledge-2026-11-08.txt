@@ -112,3 +112,6 @@ A: The Nautilus - Entertainment: Books
 Knowledge Quiz
 Q: Which Landsat Satellite currently has had the longest operational life?
 A: Landsat 5 - Science & Nature
+Knowledge Quiz
+Q: Which Beatles album does NOT feature any of the band members on it's cover?
+A: The Beatles (White Album) - Entertainment: Music
