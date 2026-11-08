@@ -269,3 +269,6 @@ P = \frac{E}{t}
 | **Electrical Power** | Voltage × Current (P = V × I) | Watt (W) |
 | **Thermal Power** | Heat flow per unit time (e.g., boiler) | Watt (W) |
 | **Radiant Power** | Light/EM radiation per second 
+Knowledge Quiz
+Q: Who released the song "Photograph" in 2005?
+A: Nickelback - Entertainment: Music
