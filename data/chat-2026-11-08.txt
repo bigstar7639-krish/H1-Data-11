@@ -505,3 +505,5 @@ Q 4711 - Un life la Dream eppadi irukku?
 Vocab 4712 - Peace = Amaithi
 Vocab 4713 - Friend = Nanban
 Thirukkural 4714 - Kattrathu - Kai Mann Alavu! - Thirukkural
+Coding Q 4715 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
