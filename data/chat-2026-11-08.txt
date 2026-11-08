@@ -770,3 +770,5 @@ Aira: Excited ah! Sollu!
 Recipe 4872 - Snacks - Potato + Masala - Crispy!
 Emotion Q 4873 - excited?
 Aira: Excited ah! Sollu!
+Emotion Q 4874 - lonely?
+Aira: Lonely ah? Aira irukka la!
