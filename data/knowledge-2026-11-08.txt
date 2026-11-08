@@ -597,3 +597,6 @@ A: 15 Degree - Vehicles
 Knowledge Quiz
 Q: From what show is the character "James Doakes"? 
 A: Dexter - Entertainment: Television
+Knowledge Quiz
+Q: Which of these cartoons had a character named Heinz Doofenshmirtz?
+A: Phineas & Ferb - Entertainment: Cartoon & Animations
