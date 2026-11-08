@@ -442,3 +442,6 @@ A: Richard III - History
 Knowledge Quiz
 Q: On which computer hardware device is the BIOS chip located?
 A: Motherboard - Science: Computers
+Knowledge Quiz
+Q: Which of these is NOT a song on The Beatles' 1968 self titled album, also known as the White album?
+A: Being For The Benefit Of Mr. Kite! - Entertainment: Music
