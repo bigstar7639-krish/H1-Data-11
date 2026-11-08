@@ -793,3 +793,6 @@ A: Vivaldi - Entertainment: Music
 Knowledge Quiz
 Q: What year was Apple Inc. founded?
 A: 1976 - General Knowledge
+Knowledge Quiz
+Q: Who was the 45th President of the United States?
+A: Donald Trump - Politics
