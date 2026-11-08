@@ -610,3 +610,6 @@ A: The Wall - Entertainment: Music
 Knowledge Quiz
 Q: Which United Nations principal organ has been suspended since 1994?
 A: Trusteeship Council - Politics
+Knowledge Quiz
+Q: Which NBA player won Most Valuable Player for the 1999-2000 season?
+A: Shaquille O'Neal - Sports
