@@ -439,3 +439,6 @@ A: Assyrians - History
 Knowledge Quiz
 Q: Which king was killed at the Battle of Bosworth Field in 1485? 
 A: Richard III - History
+Knowledge Quiz
+Q: On which computer hardware device is the BIOS chip located?
+A: Motherboard - Science: Computers
