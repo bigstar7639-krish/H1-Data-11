@@ -391,3 +391,6 @@ A: Polynesian - Entertainment: Film
 Knowledge Quiz
 Q: Which of the following is NOT a real element?
 A: Vitrainium - Science & Nature
+Knowledge Quiz
+Q: Which small country is located between the borders of France and Spain?
+A: Andorra - Geography
