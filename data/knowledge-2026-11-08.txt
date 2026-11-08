@@ -802,3 +802,6 @@ A: City 17 - Entertainment: Video Games
 Knowledge Quiz
 Q: In the movie "V for Vendetta," what is the date that masked vigilante "V" urges people to remember?
 A: November 5th - Entertainment: Film
+Knowledge Quiz
+Q: In "Gravity Falls", how much does Waddles weigh when Mable wins him in "The Time Traveler's Pig"?
+A: 15 pounds - Entertainment: Cartoon & Animations
