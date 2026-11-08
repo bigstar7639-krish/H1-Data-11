@@ -932,3 +932,4 @@ Vocab 4966 - Friend = Nanban
 Thirukkural 4967 - Anbu - Ellam Tharum! - Thirukkural
 Motivation 4968
 Paravalla! Rest edu - Thirumba try pannu!
+Thirukkural 4969 - Kattrathu - Kai Mann Alavu! - Thirukkural
