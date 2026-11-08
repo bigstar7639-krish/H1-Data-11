@@ -287,3 +287,6 @@ A: 15 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following stars was not mentioned in the lyrics of Madonna's "Vogue"?
 A: Mae West - Entertainment: Music
+Knowledge Quiz
+Q: How many values can a single byte represent?
+A: 256 - Science: Computers
