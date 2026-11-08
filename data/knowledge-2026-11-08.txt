@@ -777,3 +777,6 @@ A: Mushroom Hill - Entertainment: Video Games
 Knowledge Quiz
 Q: Who was the Author of the manga Monster Hunter Orage?
 A: Hiro Mashima - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: In the Portal series of games, who was the founder of Aperture Science?
+A: Cave Johnson - Entertainment: Video Games
