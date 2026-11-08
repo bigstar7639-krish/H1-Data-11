@@ -335,3 +335,6 @@ A: Mark - History
 Knowledge Quiz
 Q: Who voiced the character Joel in "The Last of Us"?
 A: Troy Baker - Entertainment: Video Games
+Knowledge Quiz
+Q: Area 51 is located in which US state?
+A: Nevada - General Knowledge
