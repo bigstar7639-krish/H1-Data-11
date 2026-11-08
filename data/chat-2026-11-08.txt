@@ -509,3 +509,4 @@ Coding Q 4715 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Smart Q 4716 - Science la eppadi jeyikkarathu?
 Reading 4717 - Alchemist!
+Smart Q 4718 - River la eppadi jeyikkarathu?
