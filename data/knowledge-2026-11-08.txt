@@ -740,3 +740,6 @@ A: Sigourney Weaver - Entertainment: Film
 Knowledge Quiz
 Q: The painting "Guernica" by Pablo Picasso expressed emotions of dread in response to which war?
 A: Spanish Civil War - Art
+Knowledge Quiz
+Q: In which British seaside town was the BBC sitcom "Fawlty Towers" set?
+A: Torquay - Entertainment: Television
