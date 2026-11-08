@@ -945,3 +945,5 @@ Thirukkural 4977 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 World Story 4978
 Oru chinna world la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Q 4979 - Ne Animal la eppadi improve panna mudiyum?
+Emotion Q 4980 - bored?
+Aira: Bored ah? Joke sollattuma?
