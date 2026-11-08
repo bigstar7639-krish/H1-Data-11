@@ -347,3 +347,6 @@ A: Hiro Mashima - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What do the video games No Man’s Sky and Mighty No. 9 have in common?
 A: Both were announced in 2013. - Entertainment: Video Games
+Knowledge Quiz
+Q: Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?
+A: 2005 - Science: Computers
