@@ -551,3 +551,5 @@ Aira AI: Ne Instagram la eppadi improve panna mudiyum? - Nalla question! Daily t
 Kavithai 4738 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Pazhamozhi 4739 - Porumai - Perumai Tharum!
 Q 4740 - Ne Motivation la eppadi improve panna mudiyum?
+Emotion Q 4741 - fear?
+Aira: Bayam - Normal! Ne jeyichiduva!
