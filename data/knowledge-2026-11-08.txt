@@ -133,3 +133,6 @@ A: Willi Wakker - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: Which city is the seat of government of the Netherlands?
 A: The Hague - Politics
+Knowledge Quiz
+Q: What is the half-life of Uranium-235?
+A: 703,800,000 years - Science & Nature
