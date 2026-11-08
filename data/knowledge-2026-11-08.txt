@@ -653,3 +653,6 @@ A: Niue - Geography
 Knowledge Quiz
 Q: How many playable characters are there in Super Smash Bros. for Nintendo 3DS and Wii U?
 A: 58 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which German city is located on the River Isar?
+A: Munich - Geography
