@@ -783,3 +783,6 @@ A: Cave Johnson - Entertainment: Video Games
 Knowledge Quiz
 Q: According to a Beatles song, who kept her face in a jar by the door?
 A: Eleanor Rigby - Entertainment: Music
+Knowledge Quiz
+Q: The cake depicted in Valve's "Portal" franchise most closely resembles which real-world type of cake?
+A: Black Forest - Entertainment: Video Games
