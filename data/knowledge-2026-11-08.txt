@@ -455,3 +455,6 @@ Knowledge 4735 - Newton - Newton pathi sollu - Nalla question! Daily try pannu -
 Knowledge Quiz
 Q: Grant Gustin plays which superhero on the CW show of the same name?
 A: The Flash - Entertainment: Television
+Knowledge Quiz
+Q: In the game "Terraria", which of these bosses are pre-hardmode bosses?
+A: Eye of Cthulhu - Entertainment: Video Games
