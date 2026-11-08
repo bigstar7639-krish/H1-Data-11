@@ -213,3 +213,4 @@ Reading 4539 - Python Crash Course!
 Emotion Q 4540 - bored?
 Aira: Bored ah? Joke sollattuma?
 Quote 4541 - Daily try pannu - Jeyichiduva! - Aira
+Smart Q 4542 - Sun la eppadi jeyikkarathu?
