@@ -177,3 +177,5 @@ Smart Q 4529 - Harry Potter la eppadi jeyikkarathu?
 Quote 4530 - Daily try pannu - Jeyichiduva! - Aira
 Motivation 4531
 Paravalla! Rest edu - Thirumba try pannu!
+Coding Q 4532 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
