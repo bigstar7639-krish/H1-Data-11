@@ -238,3 +238,5 @@ Movie 4557 - Ponniyin Selvan - Kalki!
 Recipe 4558 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Quote 4559 - Daily try pannu - Jeyichiduva! - Aira
 Kavithai 4560 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
+Coding Q 4561 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
