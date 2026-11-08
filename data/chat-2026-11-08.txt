@@ -409,3 +409,4 @@ Recipe 4653 - Snacks - Potato + Masala - Crispy!
 Movie 4654 - Jailer - Rajini - Mass!
 Q 4655 - Ne Instagram la eppadi improve panna mudiyum?
 Smart Q 4656 - Bible la eppadi jeyikkarathu?
+Smart Q 4657 - Wisdom la eppadi jeyikkarathu?
