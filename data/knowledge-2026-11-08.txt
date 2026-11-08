@@ -350,3 +350,6 @@ A: Both were announced in 2013. - Entertainment: Video Games
 Knowledge Quiz
 Q: Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?
 A: 2005 - Science: Computers
+Knowledge Quiz
+Q: Who built the first laser?
+A: Theodore Harold Maiman - Science: Gadgets
