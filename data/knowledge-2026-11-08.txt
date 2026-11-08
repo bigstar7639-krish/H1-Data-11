@@ -762,3 +762,6 @@ A: Godric's Hollow - Entertainment: Books
 Knowledge Quiz
 Q: Which singer was featured in Swedish producer Avicii's song "Wake Me Up"?
 A: Aloe Blacc - Entertainment: Music
+Knowledge Quiz
+Q: In Naruto: Shippuden, which of the following elements is a "Kekkei Tōta?"
+A: Particle Style - Entertainment: Television
