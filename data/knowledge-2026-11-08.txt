@@ -97,3 +97,6 @@ A: South Korea - Entertainment: Music
 Knowledge Quiz
 Q: Who played Batman in the 1997 film "Batman and Robin"?
 A: George Clooney - Entertainment: Film
+Knowledge Quiz
+Q: What game was used to advertise Steam?
+A: Counter-Strike 1.6 - Entertainment: Video Games
