@@ -118,3 +118,5 @@ Teacher: Yen late? Student: School Ahead board!
 Coding Q 4491 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Thirukkural 4492 - Anbu - Ellam Tharum! - Thirukkural
+World Story 4493
+Oru london la oru singer irunthan! Daily pray pannaan pannan! Oru naal hope kedaichuchu! Life maariduchu!
