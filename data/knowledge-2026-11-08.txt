@@ -594,3 +594,6 @@ A: Honshu - Geography
 Knowledge Quiz
 Q: Volkswagen's legendary VR6 engine has cylinders positioned at what degree angle?
 A: 15 Degree - Vehicles
+Knowledge Quiz
+Q: From what show is the character "James Doakes"? 
+A: Dexter - Entertainment: Television
