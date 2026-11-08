@@ -464,3 +464,6 @@ A: Ape - Animals
 Knowledge Quiz
 Q: Who is credited with having created the world's first video game Easter Egg?
 A: Warren Robinett - Entertainment: Video Games
+Knowledge Quiz
+Q: Along with Oxygen, which element is primarily responsible for the sky appearing blue?
+A: Nitrogen - Science & Nature
