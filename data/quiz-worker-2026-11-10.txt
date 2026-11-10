@@ -158,3 +158,13 @@ Q+A Katha - Teacher 🧠
 Question: Which of the following James Bond villains is not affiliated with the SPECTRE organization?
 
 Answer: Auric Goldfinger - Entertainment: Film. Itha kelvi Teacher pathi - Answer Auric Goldfinger. Oru kaalathula oru oor la Teacher nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Teacher oda arumaiya purinjikittan, avan Teacher pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Teacher ah purinjikittanga, antha oor ye Teacher nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Teacher ah purinjikita life ye azhagahum.
+Q+A Katha - Student 🧠
+
+Question: According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:
+
+Answer: A' + B' - Science: Computers. Itha kelvi Student pathi - Answer A' + B'. Student pathi kelvi patta oru ponnu, ava daily Student pathi yosichittu iruntha, oru naal ava oru puthu book padichu Student oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Student ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Student la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Business 🧠
+
+Question: In the "Ace Attorney" series, who was the truly responsible of the forging of the autopsy report of the pivotal IS-7 incident?
+
+Answer: Bansai Ichiyanagi - Entertainment: Video Games. Itha kelvi Business pathi - Answer Bansai Ichiyanagi. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Business pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Business la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Business oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
