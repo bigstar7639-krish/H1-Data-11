@@ -46,3 +46,7 @@ Sea - neptunesdomainpo0000mart - neptune's domain: a political geography of the 
 Sea - seastates0000samu_z1q1 - The Sea and the States
 Mountain - bwb_T4-AKA-876 - Don' Fall Off The Mountain
 Mountain - bwb_KU-405-521 - The New Naturalist MOUNTAIN FLOWERS
+River - unitedstatescoas0000vari_w3g4 - United States Coast Pilot: Atlantic Coast: SEction A St. Croix River to Cape Cod
+River - bwb_S0-DRA-499 - alexander begg's red river journal other papers relative to the red rive resistance of 1869-1870
+Sky - bwb_S0-BGR-072 - Get Out Of My Sky
+Sky - bwb_C0-CEH-108 - Flames in the Sky
